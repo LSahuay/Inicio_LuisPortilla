@@ -16,5 +16,7 @@ public class PracClonar {
 			System.out.print(frase.charAt(i));
 		}
 
+		ent.close();
+		
 	}
 }
